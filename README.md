@@ -1,2 +1,2 @@
 # AuxiliaryProject
-Auxiliary sdk
+auxiliary project sdk
